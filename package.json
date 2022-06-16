@@ -1,0 +1,14 @@
+{
+  "name": "@mishgen/comics-tree",
+  "main": "4076fd8f2dda29aa@554.js",
+  "version": "554.0.0",
+  "homepage": "https://observablehq.com/@mishgen/comics-tree",
+  "author": {
+    "name": "Мишген Гуселетов",
+    "url": "https://observablehq.com/@mishgen"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
